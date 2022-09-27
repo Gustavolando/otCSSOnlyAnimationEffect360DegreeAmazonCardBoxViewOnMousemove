@@ -17,7 +17,7 @@ body {
   height: 300px;
   transform-style: preserve-3d;
   /* rotate this box */
-  animation: animate 10s linear infinite;
+  /* animation: animate 10s linear infinite; */
 }
 
 @keyframes animate {
